@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "Food Ordering WebApp",
+      "category": "Web development",
+      "image": "images/project-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "E-Commerce WebApp ",
+      "category": "Web development",
+      "image": "images/project-2.png"
+    },
+    {
+      "id": 3,
+      "title": "College E-learning System",
+      "category": "Web development",
+      "image": "images/project-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Bank Management System",
+      "category": "Web development",
+      "image": "images/project-4.png"
+    },
+    {
+      "id": 5,
+      "title": "To Do App",
+      "category": "Web design",
+      "image": "images/project-5.png"
+    },
+    {
+      "id": 6,
+      "title": "Rock Paper Scissors Game",
+      "category": "Web design",
+      "image": "images/project-6.png"
+    },
+    {
+      "id": 7,
+      "title": "Portfolio",
+      "category": "Web Design",
+      "image": "images/project-7.png"
+    }
+  ]
+  
